@@ -1,0 +1,1 @@
+This is a project that intends to showcase the HTML skills acquired during the HTML Basics Chapter of The Odin Project curriculum.
